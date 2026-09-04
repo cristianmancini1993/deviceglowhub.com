@@ -7,7 +7,7 @@ Static HTML/CSS/JS multi-geo e-commerce site for Cash On Delivery campaigns (Met
 ## Quick facts
 
 - **Domain**: deviceglowhub.com
-- **Company**: Netmart LLC — County of Sussex 16192 Coastal Hwy, Lewes, DE 19958-3608, United States
+- **Company**: COD KINGDOM LLC — 111 NE 1st St, 8th Floor 88730, Miami, FL 33132, United States
 - **Contact email**: info@deviceglowhub.com (auto-derived from domain)
 - **First product**: HyperTrimmer™ 3000 (slug: `hypertrimmer`) — battery-powered grass trimmer
 - **Geos active**: 18 (it, es, fr, de, pt, gr, bg, ro, cz, pl, ee, lv, lt, hr, hu, si, sk, en)
@@ -143,6 +143,6 @@ Then add the product card to each `[geo]/index.html` and the URLs to `sitemap.xm
 
 ## License & ownership
 
-© 2026 Netmart LLC — All rights reserved.
+© 2026 COD KINGDOM LLC — All rights reserved.
 
 Generated with the Landing Factory multi-geo static template.
